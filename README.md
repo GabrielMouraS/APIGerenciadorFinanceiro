@@ -10,7 +10,6 @@
 
 ## 🔌 Documentação da API (Swagger UI)
 A API conta com documentação interativa gerada automaticamente.
-*(Imagem abaixo comprova a implementação dos endpoints RESTful)*
 
 <div align="center">
   <img src="https://github.com/GabrielMouraS/APIGerenciadorFinanceiro/blob/main/assets/inicial.PNG" alt="Swagger UI demonstrando endpoints GET POST PUT DELETE" width="800">
