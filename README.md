@@ -34,7 +34,7 @@ O sistema permite criar transações, consultar saldo em tempo real, buscar regi
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Java (JDK 17+)
-* **Framework:** Spring Boot (ou Java Nativo, ajuste aqui se necessário)
+* **Framework:** Spring Boot.
 * **Documentação:** Swagger UI (OpenAPI 3.0)
 * **Arquitetura:** MVC / Layered Architecture
 
