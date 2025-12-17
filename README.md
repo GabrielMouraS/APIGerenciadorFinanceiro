@@ -27,7 +27,7 @@ O sistema permite criar transações, consultar saldo em tempo real, buscar regi
 *Interface front-end desenvolvida para consumir e testar os endpoints da API.*
 
 <div align="center">
-  <img src="LINK_DA_IMAGEM_VERDE_AQUI" alt="Interface Web do Cliente" width="400">
+  <img src="https://github.com/GabrielMouraS/APIGerenciadorFinanceiro/blob/main/assets/teste.png" alt="Interface Web do Cliente" width="400">
 </div>
 
 ---
